@@ -1,6 +1,6 @@
-# SLR Parser Generator
+# SLR Parser
 
-Desenvolvido Por: 
+Developed by: 
 - Fernando Wendland
 - Gabriel Bittencourt
 - Mateus Leonahrdt
@@ -24,4 +24,4 @@ Por fim, existe a opção de reconhecimento de sentença. Já usamos um exemplo 
 
 ----------------------------------------------------------------------------------------------------
 
-Obrigado.
+Thank you.
