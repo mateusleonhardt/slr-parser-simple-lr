@@ -1,1 +1,1 @@
-# slr-parser-simple-lr
+# SLR Parser Generator
